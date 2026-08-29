@@ -66,3 +66,4 @@ python tools/infer_culane.py -c configs/clrnet/clr_resnet18_culane.yml -o weight
     pages     = {898-907}
 }
 ```
+
