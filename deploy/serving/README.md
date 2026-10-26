@@ -186,3 +186,4 @@ cd output_inference/yolov3_darknet53_270e_coco/
 # 测试代码 test_client.py 会自动创建output文件夹，并在output下生成`bbox.json`和`000000014439.jpg`两个文件
 python ../../deploy/serving/test_client.py ../../deploy/serving/label_list.txt ../../demo/000000014439.jpg
 ```
+
